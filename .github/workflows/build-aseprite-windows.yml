@@ -7,7 +7,7 @@ on:
         description: "Aseprite ref (tag/branch/commit)"
         required: true
         type: string
-        default: "v1.3.16"
+        default: "v1.3.18"
 
       # Optional override if auto-detect fails
       skia_release_tag:
